@@ -1,5 +1,5 @@
 ---
-title: 방명록
+title: Comments
 description: 편하게 흔적 남겨주세요
 ---
 
